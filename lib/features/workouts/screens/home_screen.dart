@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../../../core/storage/local_storage_service.dart';
 import '../../auth/screens/login_screen.dart';
-import '../../weight/screens/peso_screen.dart'; // Tu nueva pantalla de peso importada
+import '../../peso/screens/peso_screen.dart'; 
 import '../models/workout_model.dart';
 import '../services/local_workout_service.dart';
 import 'add_workout_screen.dart';

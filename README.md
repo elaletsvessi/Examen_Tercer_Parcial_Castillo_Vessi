@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # fit_track_pro
 
 A new Flutter project.
@@ -16,7 +15,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-# Examen_Tercer_Parcial_Castillo_Vessi
-Continuacion de la app fit track pro, se añade la funcionalidad de track de peso
->>>>>>> 713682b215702f7590d1ba29bc2f71cc89b938ac
